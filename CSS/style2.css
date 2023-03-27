@@ -1,0 +1,57 @@
+.CONTAINER{
+    background-color:#2370f4 ;
+}
+legend{
+    color: white;font-family:'MONTSERRAT';border-radius: 6PX
+}
+input{
+    color: white;font-family: 'MONTSERRAT';border-radius: 6PX
+}
+option{
+    color: white;font-family: 'MONTSERRAT';border-radius: 6PX
+}
+fieldset{
+    color: white;font-family: 'MONTSERRAT';border-radius: 6PX
+}
+h2{
+    color: white;font-family:'OSWALD';font-size: xx-large;border:3PX solid black;
+}
+p{
+    color: white; padding: 5px; font-family:'MONTSERRAT'; font-size: large;border-radius: 6PX
+}
+em{
+    color: white;font-family:'MONTSERRAT';padding: 5px;font-size: large;border-radius: 6PX
+}
+
+footer{
+    font-weight: bolder; color:white; ;font-family:'POPPINS'; font-size: larger;     padding:10px;
+    word-spacing: 2px;
+    margin: 10px;;
+}
+h1{
+    font-size: 300%; color: white; background-color: black; padding: 10px; text-align: center; font-family:'MONTSERRAT' ;text-decoration: overline;
+}
+*{
+    background-color: #2370f4; 
+}
+a{
+    color: antiquewhite;
+}
+body{
+    margin:15PX 30PX; padding: 8PX;
+}
+.CONTAINER{
+    background-color: #f2f2f2; padding: 5PX 20PX 15PX 20PX;border: 2PX;; border-radius:15PX ;
+}
+textarea{
+    width: 90%;padding:12PX;border:1PX SOLID WHITE;border-radius: 6PX;
+}
+.input placeholder{
+    font-family:'MONTESERRAT';color: black; border: 10px;
+}
+input[TYPE="SUBMIT"] {
+    font-size: xX-large;
+    background-color: lightgreen; font-family:'OSWALD'; color: white; padding: 12PX 20PX;border: 10PX;
+    cursor: pointer; width:90% ;
+    margin:50px ;
+}
